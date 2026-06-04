@@ -6,7 +6,7 @@
 - 复制隐私政策
 
 上传 Edge 商店的文件：
-E:\codex文件\小程序\上传版\qiuzhi-radar-0.1.2.zip
+qiuzhi-radar-0.1.2.zip
 
 不要直接修改 zip。需要改功能时，请修改“开发版”，测试通过后再重新打包。
 
